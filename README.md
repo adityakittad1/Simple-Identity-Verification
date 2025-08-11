@@ -1,8 +1,3 @@
-Here's an example of a project on Clarity for **Simple Identity Verification**. The contract will include two main functions:
-
-1. **Register Identity**: This function allows users to register their identity with a unique identifier (e.g., username or ID).
-2. **Verify Identity**: This function allows the system to verify if an identity exists.
-
 ### Contract Code (Simple Identity Verification in Clarity):
 
 ```lisp
